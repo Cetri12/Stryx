@@ -1,4 +1,4 @@
-# Stryx
+# Stryx/Opal++
 Stryx and Opal++ Repository. Opal++ is a C++ Syntax wrapper to make writing C++ easier, Stryx is a coding language built off C++ and Opal++
 
 This was built off the opal1 v1.1.2 module parser
